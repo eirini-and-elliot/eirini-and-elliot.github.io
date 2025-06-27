@@ -8,6 +8,8 @@ author_profile: false
 
 ### Schedule
 
+Time: 6pm - 11pm (when should they arrive?)
+
 Here we will put something about the wedding itinerary...
 
 + Arrive
