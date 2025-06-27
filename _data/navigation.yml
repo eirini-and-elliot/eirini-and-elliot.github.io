@@ -1,0 +1,11 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Schedule"
+    url: /schedule/
+  - title: "RSVP"
+    url: /rsvp/
+  - title: "Important information"
+    url: /info/
+    description: "Everything you need to know!"
+
