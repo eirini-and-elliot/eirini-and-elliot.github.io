@@ -6,5 +6,4 @@ author_profile: false
 
 ---
 
-### Foo
-bar
+This is our wedding website!
