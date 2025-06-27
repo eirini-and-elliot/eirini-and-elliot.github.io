@@ -22,24 +22,27 @@ title: "We're getting married!"
 name: "Eirini and Elliot"
 email: eirini-and-elliot-are-getting-married@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
-  This is our wedding website! Or at least it will be once Elliot
-  figures out what the hell he's doing! :P
+  This is our wedding website!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
-layout: splash
-# paginate: 5 # number of posts to show
-# paginate_path: /page:num/
+minimal_mistakes_skin: "dirt"
 
 # Includes
 include: ["_pages"]
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.27.1"
-minimal_mistakes_skin: "dirt"
-plugins:
-  - jekyll-include-cache
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+
+# Outputting
+permalink: /:categories/:title/
+# paginate: 5 # number of posts to show
+# paginate_path: /page:num/
+
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -60,3 +63,32 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
