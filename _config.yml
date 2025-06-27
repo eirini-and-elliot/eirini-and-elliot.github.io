@@ -36,10 +36,11 @@ layout: splash
 include: ["_pages"]
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 minimal_mistakes_skin: "dirt"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
