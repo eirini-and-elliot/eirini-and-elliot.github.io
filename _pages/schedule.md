@@ -18,3 +18,5 @@ Here we will put something about the wedding itinerary...
 + Buffet dinner
 + Entertainment
 + Get outta here!
+
+Location: [Museum of Technology, Cambridge](https://maps.app.goo.gl/FUrpX2WgPmRaSqw76)

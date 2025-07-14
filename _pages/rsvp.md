@@ -6,11 +6,14 @@ author_profile: false
 
 ---
 
-Please RSVP by DD/MM/2025
+
+<!--Please RSVP by DD/MM/2025-->
 
 We can't wait to see you there!
 
-[RSVP here!](https://forms.gle/qFoyKYxxFKRjbfW29)
+[Please RSVP here!](https://forms.gle/qFoyKYxxFKRjbfW29)
+
+<a href="https://forms.gle/qFoyKYxxFKRjbfW29" target="_blank"> Please RSVP here! </a>
 
 See if we can embed the form into this page.
 

@@ -1,6 +1,6 @@
 main:
-  - title: "About"
-    url: /about/
+  - title: "About us"
+    url: /about-us/
   - title: "Schedule"
     url: /schedule/
   - title: "RSVP"

@@ -1,19 +1,18 @@
 ---
 layout: splash
 classes:
-title: "We're getting married!"
+title: "Eirini & Elliot"
 permalink: /
 
 header:
   #overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/irises.jpg
+  overlay_filter: "0.1"
+  overlay_image: /assets/images/town.jpg
   actions:
     - label: "RSVP"
       url: "/rsvp"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/a-city-street-filled-with-lots-of-tall-buildings-XIxZ9jzVnW8)"
 excerpt: "10 October 2025, Museum of Technology, Cambridge"
 
 ---
 
-lorem ipsum
