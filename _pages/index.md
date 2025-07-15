@@ -13,9 +13,9 @@ header:
       url: "/rsvp"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/a-city-street-filled-with-lots-of-tall-buildings-XIxZ9jzVnW8)"
 excerpt: |
-  "10 October 2025
+  10 October 2025
   <br>
-  Museum of Technology, Cambridge"
-
+  Museum of Technology, Cambridge
 ---
 
+test
