@@ -7,7 +7,7 @@ permalink: /
 header:
   #overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/town.jpg
+  overlay_image: https://unsplash.com/photos/a-city-street-filled-with-lots-of-tall-buildings-XIxZ9jzVnW8
   actions:
     - label: "RSVP"
       url: "/rsvp"
