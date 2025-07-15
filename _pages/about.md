@@ -12,6 +12,10 @@ gallery:
     image_path: /assets/images/2018_1.jpg
     alt: "eirini looking beautiful and elliot horrified in front of a communist building"
     title: "Image 2 title caption"
+  - url: /assets/images/2023_1.jpg
+    image_path: /assets/images/2023_1.jpg
+    alt: "eirini, elliot and their cat"
+    title: "Image 7 title caption"   
   - url: /assets/images/2019_1.jpg
     image_path: /assets/images/2019_1.jpg
     alt: "eirini and elliot smiling in front of a mountain"
@@ -28,10 +32,7 @@ gallery:
     image_path: /assets/images/2022_1.jpg
     alt: "eirini and elliot in fancy clothes in front of a greek church"
     title: "Image 6 title caption"    
-  - url: /assets/images/2023_1.jpg
-    image_path: /assets/images/2023_1.jpg
-    alt: "eirini, elliot and their cat"
-    title: "Image 7 title caption"    
+ 
   - url: /assets/images/2024_1.jpg
     image_path: /assets/images/2024_1.jpg
     alt: "eirini and elliot in front of a wall with I love you written on it"
