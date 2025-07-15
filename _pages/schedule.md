@@ -1,11 +1,13 @@
 ---
 layout: single
-title: "Schedule"
-permalink: /schedule/
+title: "The day"
+permalink: /the-day/
 author_profile: false
 
 ---
-This is going to be a fairly casual affair, because hello have you met us??
+### Schedule
+
+This is going to be a casual affair, because hello have you met us??
 
 We have booked the [Cambridge Museum of Technology](https://maps.app.goo.gl/FUrpX2WgPmRaSqw76) from 18:00 to 23:00. 
 We encourage you to be there from 18:00.
@@ -19,6 +21,12 @@ Here is a rough schedule:
 + 20:30 Pub quiz, because nerds
 + 23:00 Get outta here! (and keep drinking at another, secret location)
 
+### Dress code
+Vaguely nice! The colour theme is yellows and blues, so if you have something you love in these colours, feel free to wear it.
+
+**_Strictly no lycra._**
+
+### Address
 <address>
-  [Cambridge Museum of Technology](https://maps.app.goo.gl/FUrpX2WgPmRaSqw76)<br /> Riverside, CB5 8LD<br /> United Kingdom
+  Cambridge Museum of Technology<br /> Riverside, CB5 8LD<br /> United Kingdom
 </address>

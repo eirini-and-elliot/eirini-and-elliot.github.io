@@ -1,11 +1,11 @@
 main:
   - title: "About us"
     url: /about-us/
-  - title: "Schedule"
-    url: /schedule/
+  - title: "The day"
+    url: /the-day/
   - title: "RSVP"
     url: /rsvp/
-  - title: "Important information"
-    url: /info/
+  - title: "For Cambridge visitors"
+    url: /for-cambridge-visitors/
     description: "Everything you need to know!"
 

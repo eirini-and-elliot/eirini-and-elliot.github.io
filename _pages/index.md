@@ -15,7 +15,5 @@ header:
 excerpt: |
   10 October 2025
   <br>
-  Museum of Technology, Cambridge
+  Cambridge Museum of Technology
 ---
-
-test
