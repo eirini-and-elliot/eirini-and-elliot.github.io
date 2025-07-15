@@ -8,9 +8,13 @@ gallery:
     image_path: /assets/images/2017_1.jpg
     alt: "image 1"
     title: "Image 1 title caption"
+  - url: /assets/images/2022_1.jpg
+    image_path: /assets/images/2022_1.jpg
+    alt: "eirini and elliot in fancy clothes"
+    title: "Image 6 title caption"  
   - url: /assets/images/2018_1.JPG
     image_path: /assets/images/2018_1.JPG
-    alt: "eirini looking beautiful and elliot horrified in front of a communist building"
+    alt: "eirini and elliot in front of pretty cliff"
     title: "Image 2 title caption"
   - url: /assets/images/2023_1.jpg
     image_path: /assets/images/2023_1.jpg
@@ -28,11 +32,6 @@ gallery:
     image_path: /assets/images/2021_1.jpg
     alt: "eirini and elliot windswept"
     title: "Image 5 title caption"
-  - url: /assets/images/2022_1.jpg
-    image_path: /assets/images/2022_1.jpg
-    alt: "eirini and elliot in fancy clothes in front of a greek church"
-    title: "Image 6 title caption"    
- 
   - url: /assets/images/2024_1.jpg
     image_path: /assets/images/2024_1.jpg
     alt: "eirini and elliot in front of a wall with I love you written on it"
