@@ -6,11 +6,11 @@ author_profile: false
 gallery:
   - url: /assets/images/2017_1.jpg
     image_path: /assets/images/2017_1.jpg
-    alt: "elliot kissing eirini cheek next to a dolphin monster"
+    alt: "image 1"
     title: "Image 1 title caption"
   - url: /assets/images/2018_1.jpg
     image_path: /assets/images/2018_1.jpg
-    alt: "eirini looking beautiful and elliot horrified in front of a communist building
+    alt: "eirini looking beautiful and elliot horrified in front of a communist building"
     title: "Image 2 title caption"
   - url: /assets/images/2019_1.jpg
     image_path: /assets/images/2019_1.jpg
