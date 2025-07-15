@@ -21,25 +21,25 @@ gallery:
     alt: "eirini and elliot in surgical masks"
     title: "Image 4 title caption"
   - url: /assets/images/2021_1.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    image_path: /assets/images/2021_1.jpg
     alt: "eirini and elliot windswept"
-    title: "Image 4 title caption"
+    title: "Image 5 title caption"
   - url: /assets/images/2022_1.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    image_path: /assets/images/2022_1.jpg
     alt: "eirini and elliot in fancy clothes in front of a greek church"
-    title: "Image 4 title caption"    
+    title: "Image 6 title caption"    
   - url: /assets/images/2023_1.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    image_path: /assets/images/2023_1.jpg
     alt: "eirini, elliot and their cat"
-    title: "Image 4 title caption"    
+    title: "Image 7 title caption"    
   - url: /assets/images/2024_1.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    image_path: /assets/images/2024_1.jpg
     alt: "eirini and elliot in front of a wall with I love you written on it"
-    title: "Image 4 title caption"
+    title: "Image 8 title caption"
   - url: /assets/images/2025_1.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    image_path: /assets/images/2025_1.jpg
     alt: "eirini and elliot battling over an anzac biscuit"
-    title: "Image 4 title caption" 
+    title: "Image 9 title caption" 
 ---
 
 Extra bits:
