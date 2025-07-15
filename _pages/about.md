@@ -6,7 +6,7 @@ author_profile: false
 gallery:
   - url: /assets/images/2017_1.jpg
     image_path: /assets/images/2017_1.jpg
-    alt: "elliot kissing eirini's cheek next to a dolphin monster"
+    alt: "elliot kissing eirini cheek next to a dolphin monster"
     title: "Image 1 title caption"
   - url: /assets/images/2018_1.jpg
     image_path: /assets/images/2018_1.jpg
@@ -34,7 +34,7 @@ gallery:
     title: "Image 4 title caption"    
   - url: /assets/images/2024_1.jpg
     image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-    alt: "eirini and elliot in front of a wall with 'I love you' written on it"
+    alt: "eirini and elliot in front of a wall with I love you written on it"
     title: "Image 4 title caption"
   - url: /assets/images/2025_1.jpg
     image_path: /assets/images/unsplash-gallery-image-4-th.jpg
