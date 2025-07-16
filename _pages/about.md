@@ -42,7 +42,12 @@ gallery:
     title: "The ANZAC Biscuit Incident (2025)" 
 ---
 
-We met in Nijmegen, in the Netherlands, when we were doing our PhDs.
+You're coming to our wedding so you probably know quite a bit about us already!
+We've been together for a long time (almost 9 years!) and never really thought we'd get married.
+However, a wedding (or two) is a great way to get some of our friends and family in the same place.
+We've lived together in two countries, neither of which is where we're from.
+A lot of our friends are (recovering) academics, which means they're scattered all over the world.
+Thank you all for celebrating with us, we really appreciate it.
 
 ## Our relationship, one picture a year 
 
