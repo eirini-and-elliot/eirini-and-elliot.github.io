@@ -11,11 +11,11 @@ gallery:
   - url: /assets/images/2022_1.jpg
     image_path: /assets/images/2022_1.jpg
     alt: "eirini and elliot in fancy clothes"
-    title: "Elliot and Eirini and the Volcano of Nisiros, Greece"
+    title: "Elliot and Eirini and the Volcano of Nisiros, Greece (2022)"
   - url: /assets/images/2023_2.jpg
     image_path: /assets/images/2023_2.jpg
-    alt: "eirini and elliot and tiny"
-    title: "Eirini and Elliot on Tiny, the camel, on Cable Beach, Australia"   
+    alt: "eirini and elliot and tiny the camel"
+    title: "Eirini and Elliot on Tiny, the camel, on Cable Beach, Australia (2023)"   
   - url: /assets/images/2018_1.JPG
     image_path: /assets/images/2018_1.JPG
     alt: "eirini and elliot in front of pretty cliff"
@@ -35,11 +35,11 @@ gallery:
   - url: /assets/images/2024_1.jpg
     image_path: /assets/images/2024_1.jpg
     alt: "eirini and elliot in front of a wall with I love you written on it"
-    title: "Paris love wall"
+    title: "Paris love wall (2024)"
   - url: /assets/images/2025_2.jpg
     image_path: /assets/images/2025_2.jpg
-    alt: "eirini's hand, elliot's leg and their cat"
-    title: "Family portrait" 
+    alt: "eirini and elliot's hands and their cat"
+    title: "Family portrait (2025)" 
 ---
 
 You're coming to our wedding so you probably know quite a bit about us already!
