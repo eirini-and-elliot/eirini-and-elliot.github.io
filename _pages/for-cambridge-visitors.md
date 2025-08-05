@@ -31,3 +31,11 @@ Although pretty, this isn't particularly close to the centre of Cambridge, so de
 A safe bet is the Cambridge train station area, which is a 20' walk from central Cambridge and a 10' walk from Mill Road, where you'll find nice restaurants, bars and cafes.
 
 ### Things to do in Cambridge
+A non-hierarchical list of some of the things we enjoy doing in Cambridge:
+
+- Go to any of the vendors we sourced food and drinks from (see [About](/about))
+- Go to any of the [Uncomfortable Cambridge](https://www.uncomfortablecambridge.com/) walking tours. They are run by PhD students and cover the more, well, uncomfortable, aspects of Cambridge history, including its involvement in colonialism and Empire
+- Walk to Grantchester Meadows and have tea and scones at [The Orchard](https://www.theorchardteagarden.co.uk/)
+- Catch the [Evensong at King's College Chapel](https://www.kings.cam.ac.uk/chapel/attending-chapel-services)
+- Go to the [Fitzwilliam Museum](https://www.museums.cam.ac.uk/museums/the-fitzwilliam-museum) (Eirini is especially fond of the still lives)
+- Go to [Kettle's Yard](https://www.kettlesyard.cam.ac.uk/) (house and modern art gallery collection)
