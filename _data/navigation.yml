@@ -1,6 +1,6 @@
 main:
-  - title: "About us"
-    url: /about-us/
+  - title: "About"
+    url: /about/
   - title: "The day"
     url: /the-day/
   - title: "RSVP"
