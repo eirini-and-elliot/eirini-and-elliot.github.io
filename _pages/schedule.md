@@ -23,7 +23,7 @@ Here is a rough itinerary:
 ### Dress code
 Vaguely nice.
 
-**_Strictly no lycra._**
+**_Rowers, strictly no lycra._**
 
 ### Address & Getting there
 <address>
