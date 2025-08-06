@@ -39,3 +39,4 @@ A non-hierarchical list of some of the things we enjoy doing in Cambridge:
 - Catch the [Evensong at King's College Chapel](https://www.kings.cam.ac.uk/chapel/attending-chapel-services)
 - Go to the [Fitzwilliam Museum](https://www.museums.cam.ac.uk/museums/the-fitzwilliam-museum) (Eirini is especially fond of the still lives)
 - Go to [Kettle's Yard](https://www.kettlesyard.cam.ac.uk/) (house and modern art gallery collection)
+- See the intricate hand-painted interiors of the [David Parr House](https://davidparrhouse.org/) - a hidden gem!
